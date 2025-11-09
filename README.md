@@ -1,27 +1,32 @@
-<h2 align="left">Hi! I'm Sara and I'm a software engineering student from Serbia :D</h2>
+<h1>👋 Hi, I'm Sara Stojkov!</h1>
+
+<h2 align="left">A Software Engineering Student from Serbia</h2>
+
+<div align="center" margin-top="50px">
+
+  ![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sara-stojkov&theme=radical)
+  
+</div>
 
 <p align="left">
-  My main interests are Machine Learning, AI and Data Science. I also love applying engineering solutions to scientific work, like biology.
+  I am passionate about applying engineering principles to scientific challenges, with a core focus on Machine Learning, AI, and Data Science. I particularly enjoy projects at the intersection of computing and fields like biology and bio-engineering.
+
 </p>
 
 ###
 
-<div align="center">
-  <!--
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=sara-stojkov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"
-    width="320"
-    alt="stats graph"
-  />
-  -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=sara-stojkov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
-    width="320"
-    alt="languages graph"
-  />
-</div>
+<h2>🌟 Project Highlights</h2>
+
+<a href="https://github.com/sara-stojkov/MetaTune-Music-Catalogue"> ![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=sara-stojkov&repo=MetaTune-Music-Catalogue&theme=radical)</a> <a href="https://github.com/sara-stojkov/Automatic-Class-Scheduler-GA"> ![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=sara-stojkov&repo=Automatic-Class-Scheduler-GA&theme=radical) </a>
+
+<a href="https://github.com/sara-stojkov/Parallel-PageRank-Algorithm" >![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=sara-stojkov&repo=Parallel-PageRank-Algorithm&theme=radical) </a> <a href="https://github.com/sara-stojkov/Python_PDF_Search_Engine"> ![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=sara-stojkov&repo=Python_PDF_Search_Engine&theme=radical) </a>
 
 ###
+
+<h2>🛠️ My Toolkit & Technologies</h2>
+
+<p> I'm most experienced with Python and its popular libraries (<i>numpy, pandas, matplotlib...</i>) as well as data-oriented libraries (<i>tensorflow, pytorch, scikit-learn, seaborn...</i>)</p>
+<p> Also, I have experience with Java, Golang, JavaScript for WebDev, C++ and C#. </p>
 
 <div align="left">
   <img
@@ -67,8 +72,16 @@
   />
 </div>
 
+<div align="center">
+
+  <img height="200px" width="400px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sara-stojkov&theme=transparent"/>
+  
+</div>
+
 ###
 
+<h2> 🔗 Get In Touch </h2>
+<p>I'm always open to connecting! Whether you have an exciting collaboration idea, are looking to discuss a potential job opportunity or just want to chat about tech, feel free to reach out:</p>
 <div align="left">
   <a href="mailto:sarastojkov6@gmail.com">
     <img
