@@ -90,7 +90,7 @@
       alt="gmail logo"
     />
   </a>
-  <a href="https://www.linkedin.com/in/sara-stojkov-b65837292/">
+  <a href="https://www.linkedin.com/in/sarastojkov/">
     <img
       src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
       width="120"
